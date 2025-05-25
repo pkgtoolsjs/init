@@ -1,0 +1,33 @@
+{
+  "extends": "@tsconfig/node22/tsconfig.json",
+
+  "compilerOptions": {
+    "noEmit": false,
+
+    "outDir": "dist",
+    "rootDir": ".",
+    "baseUrl": ".",
+
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+
+    "lib": ["ESNext", "Decorators"],
+
+    "resolveJsonModule": true,
+
+    "forceConsistentCasingInFileNames": true,
+    "strictNullChecks": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+
+    "preserveWatchOutput": true,
+
+    "importHelpers": true,
+
+    "paths": { "@/*": ["src/*"] }
+  },
+
+  "include": ["src/**/*", "prettier.config.*"],
+  "exclude": ["node_modules", "dist"]
+}
