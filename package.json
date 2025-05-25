@@ -22,7 +22,8 @@
     "start": "node --env-file=.env ./dist/index.js",
     "type-check": "tsc --noEmit",
     "build": "run-p type-check \"build-only {@}\" --",
-    "build-only": "tsdown"
+    "build-only": "tsdown",
+    "build:watch": "tsdown --watch"
   },
   "simple-git-hooks": {
     "pre-commit": "npx lint-staged"
