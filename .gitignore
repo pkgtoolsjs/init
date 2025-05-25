@@ -19,7 +19,3 @@ pnpm-debug.log*
 .flaskenv*
 !.env.project
 !.env.vault
-
-package-lock.json
-pnpm-lock.yaml
-yarn.lock
