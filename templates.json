@@ -1,0 +1,12 @@
+{
+  "templates": [
+    {
+      "name": "template-ts",
+      "description": "",
+      "author": "",
+      "repository": {
+        "url": "https://github.com/pkgtoolsjs/template-ts.git"
+      }
+    }
+  ]
+}
