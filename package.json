@@ -1,5 +1,5 @@
 {
-  "name": "pkgtools",
+  "name": "@pkgtoolsjs/pkgtools",
   "description": "Initialize a Node.js project.",
   "version": "0.0.3",
   "private": false,
