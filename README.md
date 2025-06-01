@@ -1,6 +1,6 @@
-# @pkgtools/tool-init [![CI](https://github.com/pkgtoolsjs/tool-init/actions/workflows/ci.yml/badge.svg)](https://github.com/pkgtoolsjs/tool-init/actions/workflows/ci.yml)
+# pkgtools [![CI](https://github.com/pkgtoolsjs/pkgtools/actions/workflows/ci.yml/badge.svg)](https://github.com/pkgtoolsjs/pkgtools/actions/workflows/ci.yml)
 
-Initialize a Node.js project.
+A helper tool for Node.js packages.
 
 ## License
 

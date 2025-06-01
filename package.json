@@ -1,5 +1,5 @@
 {
-  "name": "@pkgtools/tool-init",
+  "name": "pkgtools",
   "description": "Initialize a Node.js project.",
   "version": "0.0.1",
   "private": false,
@@ -40,9 +40,9 @@
       "prettier --parser=typescript --write"
     ]
   },
-  "author": "nice-winter",
+  "author": "pkgtoolsjs",
   "repository": {
-    "url": "git+https://github.com/pkgtoolsjs/init.git"
+    "url": "git+https://github.com/pkgtoolsjs/pkgtools.git"
   },
   "license": "MIT",
   "devDependencies": {
