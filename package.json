@@ -61,9 +61,11 @@
     "typescript": "~5.8.3"
   },
   "dependencies": {
+    "@npmcli/git": "^6.0.3",
     "chalk": "^5.4.1",
     "commander": "^14.0.0",
     "inquirer": "^12.6.3",
+    "undici": "^7.10.0",
     "yargs": "^18.0.0"
   }
 }
